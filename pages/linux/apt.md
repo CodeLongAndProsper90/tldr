@@ -34,3 +34,7 @@
 - List installed packages:
 
 `apt list --installed`
+
+- Remove autoinstalled packages that are no longer needed:
+
+`sudo apt autoremove`
